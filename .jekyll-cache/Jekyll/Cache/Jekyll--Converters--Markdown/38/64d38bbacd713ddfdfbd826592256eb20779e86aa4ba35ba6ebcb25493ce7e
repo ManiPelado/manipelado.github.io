@@ -1,0 +1,54 @@
+I"}<!--
+![Papert con una de sus primeras tortugas LOGO y el dibujo que hicieron niños con ella. Una niña da instrucciones en un teclado de botones para dibujar con su tortula LOG.](/images/MIT%20IN%20PERSPECTIVE_p200_instructor%20and%20two%20children%20examine%20robot_1975%20CROP.jpeg){: .center-image }
+-->
+<p>Aprendizaje y educación. ¿Sinónimos?
+No, de acuerdo a Papert para quién la segunda es una institucionalización de la primera, sea través de escuelas o reglas para la formación del pensamiento aún en el ambiente familiar.</p>
+
+<p>Nació en Pretoria, Sudafrica.
+Durante sus estudios universitarios fue activista contra el sistema político racista, el apartheid.
+Tras obtener su doctorado en matemática de la Universidad de Witwatersrand en 1952 su rechazo al régimen lo llevó a un auto-exilio.
+En la Universidad de Cambridge se torna muy activo en el movimiento socialista revolucionario hasta su egreso con un segundo doctorado en matemática en 1959.</p>
+
+<h1 id="constructivimo---construccionismo">Constructivimo -&gt; Construccionismo</h1>
+<p>Intrigado en como se forman los conceptos de esta ciencia en la mente se hizo discipulo del psicólogo suizo <a href="https://es.wikipedia.org/wiki/Jean_Piaget">Jean Piaget</a> entre 1959 y 1963.
+La teoría <a href="https://es.wikipedia.org/wiki/Constructivismo_(pedagog%C3%ADa)">constructivista</a> que iniciaron el psicólogo sovíético <a href="https://es.wikipedia.org/wiki/Lev_Vygotski">Lev Vygotski</a> y Piaget…</p>
+
+<p>¿Que es el CONSTRUCTIVISMO?</p>
+
+<p>Piaget valoró mucho a su discipulo, “Nadie entiende mis ideal tan bien como Papert.”, declaró.</p>
+
+<p>A partir de las ideas del constructivismo, Papert elaboró su idea de como debieran operar las escuelas para asistir en el proceso de aprendizaje.
+Su teoría <a href="https://es.wikipedia.org/wiki/Construccionismo">construccionista</a> se resume en que <strong>la gente contruye conocimiento más efectivamente cuando están activamente involucradas en la construcción de cosas en el mundo real</strong> (<a href="https://news.mit.edu/2016/seymour-papert-pioneer-of-constructionist-learning-dies-0801" title="Professor Emeritus Seymour Papert, pioneer of constructionist learning, dies at 88 | MIT News | 2016-08-01">MIT News, 2016-08-01</a>).</p>
+
+<h1 id="lenguaje-logo">Lenguaje LOGO</h1>
+
+<p>En el siguiente video de 1972 Seymour explica el objetivo de darles a usar a niños computadoras</p>
+<blockquote>
+  <p>“La idea es bastante simple. Hacer que los niños aprendan matemática a través de hablar (en lenguaje) matemático sobre temas que realmente le importan a ellos.”</p>
+</blockquote>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMzojQFyMo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p><em>Seymour Papert en el Artificial Intelligence Laboratory del MIT, 1972</em></p>
+
+<p>Cynthia Salomon co-creadora del lenguaje <a href="https://es.wikipedia.org/wiki/Logo_(lenguaje_de_programaci%C3%B3n)">LOGO</a> con Seymour y Wally Feurzeig recopiló en su sitio <a href="https://logothings.github.io/logothings/">logothings</a> recuerdos sobre los primeros años del lenguaje.
+Apunta que</p>
+
+<h1 id="tortuga-logo">Tortuga LOGO</h1>
+<p style="text-align: center;"><img src="/images/MIT%20IN%20PERSPECTIVE_p200_instructor%20and%20two%20children%20examine%20robot_1975%20CROP.jpeg" alt="Papert y dos niños con una de las primeras tortugas LOGO en 1975" />
+<em>Papert y dos niños en 1975 con la segunda tortuga LOGO.</em></p>
+
+<p>El trabajo pionero de Seymour en robótica educativa es recogido en un artículo del sitio JuegosRobotica.es <a href="https://juegosrobotica.es/gracias-papert-resnick/">Gracias Papert, gracias Resnick</a>. 
+El doctor en computación <a href="https://es.wikipedia.org/wiki/Mitchel_Resnick">Mitchel Resnick</a> lo tuvo de colega desde 1980 en el .
+Pero es a partir de 1985 cuando <a href="https://es.wikipedia.org/wiki/Nicholas_Negroponte">Nicholas Negroponte</a> funda el “Laboratorio de medios” del MIT, el famoso <a href="https://www.media.mit.edu/">Media Lab</a> y Resnick se suma a él que la colaboración entre ambos se estrecha y dá fruto a juguetes robóticos para el aprendizaje.
+Estos inclusive encontraron su versión comercial a través de la compañia danesa LEGO, la serie de kits <a href="https://www.applefritter.com/content/lego-tc-logo">TC Logo</a> que se comandaban desde software corriendo en una Apple II.
+Esta línea de productos evolucionaría en los contemporaneos <a href="https://www.lego.com/mindstorms">Lego Mindstorms</a>.</p>
+
+<p>Las ideas de Papert continuan desarrolandose en el grupo de investigación que hoy dirige Resnik, el <a href="https://www.media.mit.edu/groups/lifelong-kindergarten/overview/">“Jardín de infantes de por vida” del MIT (Lifelong Kindergarten)</a>. 
+Allí se creo el lenguaje de programación <a href="https://scratch.mit.edu/">Scratch</a> y su versión para más jóvenes <a href="https://www.scratchjr.org/">ScratchJr</a>, herramientas no solo educativas usadas como tales en escuelas y hogares, sino también por jóvenes creadores de todo el planeta para contar historias, crear obras artísticas interactivas o juegos.</p>
+
+<h2 id="programación-para-los-niños-un-malentendido-eterno">Programación para los niños, un malentendido eterno</h2>
+<p>La simplificación más burda de la visión de Papert y colegas de que las computadoras sean para los niños <strong>alas para la mente</strong> es reducirla a un programa educativo limitado a <strong>enseñar a programar a los niños porque eso es parte de la nueva alfabetización</strong>.
+Tales planes se agotaron a poco de iniciar por el desinterés de los docentes en los 60s, 80s, etc.
+Y las críticas a la veta claramente comercial de tales programas no es infrecuente (<a href="https://www.ped30.com/2017/12/12/apple-everyone-can-code-deja-vu/">Elmer-DeWitt 2017-12-12</a>).</p>
+
+:ET

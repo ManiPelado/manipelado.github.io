@@ -1,0 +1,121 @@
+I"�1<p>¿Porqué en la primer década de la computación personal doméstica las centrales nucleares han sido tema de tantos juegos?</p>
+
+<h1 id="three-mile-island">Three Mile Island</h1>
+<p>En 1979 se produjo un accidente en el segundo reactor de la <a href="https://es.wikipedia.org/wiki/Planta_de_energ%C3%ADa_nuclear_Three_Mile_Island">central nuclear de Three Mile Island</a>.
+No hubo ni muertes ni heridos, cosa que no puede decirse de multitud de accidentes en cualquier actividad industrial donde cotidianamente se producen fallas que suelen resultar mortales.
+Múltiples estudios epidemeológicos han demostrado que durante 20 años ni entre la población de la zona ni entre los trabajadores hubo incremento en la tasa de incidencia de cancer u otra enfermedad. 
+Si usted es un opositor a la energía nuclear ya me estará tildando de apologista de ella.</p>
+
+<p>Una simulación contemporanea fue escrita por Richard Orban para la Apple II.
+Tiene justamente por nombre <a href="https://en.wikipedia.org/wiki/Three_Mile_Island_(video_game)">Three Mile Island</a> que directamente tiene por</p>
+
+<p>Stephen R. Berggren escribió en 1980 <a href="https://www.mobygames.com/game/pet-nuclear-power-plant">PET Nuclear Power Plant</a> para la Commodore PET.
+En el año 1982 publicó <a href="https://archive.org/details/64_Nuclear_Power_Plant_1982_Creative_Computing">64 Nuclear Power Plant</a> para ya se imaginan que computadora.</p>
+
+<p>El genio de <a href="https://en.wikipedia.org/wiki/Chris_Crawford_(game_designer)">Chris Crawford</a> tawbién fue picado por el accidente y volcó sus ideas en código BASIC de las Atari de 8 bits.
+El resultado fue un <em>juego de simulación</em> llamado <a href="https://en.wikipedia.org/wiki/Scram_(video_game)">SCRAM</a> que se publicó un 1981.
+Como se indica en un artículo de <a href="https://www.giantbomb.com/scram/3030-27278/">Giant Bomb</a> la frecuencia de accidentes que sufre el jugador es irrealmente elevada y no lo auxilian los sistemas de seguridad automáticos que existen en cualquier reactor.
+Es claro que Crawford hizo esto para que haya algún desafío.
+De lo contrario la simulación parecerá tediosa para quién compró este software esperando encontrarse con un juego.
+De ahí la denominación <em>juego de simulación</em>.
+Ninguna personal en su sano juicio puede considerarse entrenado como operador de una central tras divertirse con un juego.
+Esto mismo lo expresó Crawford en su momento <a href="https://youtu.be/J0yOLKeCgwE">entrevistado por el programa de ABC Nightline</a>.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0yOLKeCgwE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h1 id="chernobíl">Chernobíl</h1>
+<p>En 1986 se produce el accidente nuclear en Chernobíl.</p>
+
+<p>Este otro accidente causó otra “ola de inspiración” para programadores de juegos.</p>
+
+<p>Jugé freneticamente al <strong>Chernobyl</strong> para la Commodore 64.
+Publicado al año siguiente de ese famoso accidente (1987) por COSMI, los mismos del famoso Super Huey, 
+En esta nota de <a href="https://games.avclub.com/in-a-1987-video-game-chernobyl-s-nuclear-reactor-was-n-1838124865">Av Club</a> tras la difusión de la serie homónima en HBO, cuenta que la simulación tiene tal realismo que justamente los problemas y accidentes son menores e infrecuentes.
+Una muy buena nota sobre el juego de <a href="https://www.neoteo.com/chernobil-simulador-de-c64/">Neoteo.com</a> da cuenta de algó más interesante: lo simulado es un reactor de tecnología de agua presurizada (no hierve) con uranio enriquecido (PWR) distanta a la RBMK de Chernobyl con uranio natural y agua que hierve.<br />
+Paul Norman, su programador, en una entrevista para <a href="http://www.c64.com/interviews/norman.html">c64.com</a> se opuso a que COSMI comercializara a su creación bajo ese nombre.
+Fue en vano,</p>
+
+<p>A fines de 1987 Doug S. Gamble programó <a href="https://www.mobygames.com/game/oakflat-nuclear-power-plant-simulator">Oakflat Nuclear Power Plant Simulator</a> para Commodore 64, que publicaría a traves de su compañía <a href="http://www.gamtech.com/about.aspx">Gamtech</a> el siguiente año.</p>
+
+<h2 id="el-dasastre-de-chernobíl">El <em>dasastre</em> de Chernobíl</h2>
+<p>Ah. ¿Qué estoy hablando de juegos de Chernobyl evadiendo reconocer que la nucleoelectricidad es un riesgo innecesario?.
+Son un hecho las muertes y enfermedades producto tanto de la explosión (de vapor) y posterior incendio, así como las causadas por el escape de radionucléidos.
+Por supuesto no hay que ocultarlos, sino determinarles cuantitativamente a través de todas las herramientas de la ciencia para poder ayudar a las víctímas y aprender a evitar que esto se repita.</p>
+
+<p>Para hablar de la ciencia de Chernobyl hay que distiguir entre consenso científico y la opinión individual de cada investigador.
+Un ejemplo de donde se expresa el primero es en los reportes del <a href="https://www.ipcc.ch/languages-2/spanish/"><strong>Panel Intergubernamental del Cambio Climático (IPCC)</strong></a> de la <strong>Organización de las naciones unidas</strong>.
+Ejemplo de lo segundo son las múltiples notas periodísticas o filmaciones en internet en que individuos de variadas credenciales científicas sostienen que el calentamiento global es una fantasía o que no es causado por la actividad humana. 
+El trabajo del <strong>IPCC</strong> se nutre de múltiples artículo en revistas de ciencia, los llamados <em>papers</em>, cuyas afirmaciones y datos son puestos a prueba a través del proceso llamado <em>revisión por pares</em>, esto es por otros científicos en forma anónima como condición previa a la publicación. 
+En contrapartida si un estudio es difundido por un individuo o organización por cualquier otro medio, evadiendo así la <em>revisión por pares</em>, evidenteme su motivación no es científica sino de propaganda.</p>
+
+<p>Esto sí, hay un gran problema de salud, difícilmente cuantificable, que afecta gravemente a la población afectada y no está contemplado en lo anterior.
+La histeria, paranoía y continuo bombardeo de mensajes de crisis y desazón descargados sobre la población a través de los medios de comunicación por autoridades gubernamentales y ambientalistas bien intencionados han causado depresiones, enfermedades mentales crónicas que llevaron a muertes prematuras y a suicidios particularmente entre adultos mayores.
+Eso y no los radionucleídos son los mayores asesinos en estos accidentes.</p>
+
+<h1 id="fukushima">Fukushima</h1>
+<p>El maremoto y posteriores accidentes de los reactores de la planta de Fukushima Daiichi sucedieron en un mundo muy distinto al de la década de los 80s.
+En la segúnda década del s. XXI grandes estudios repiten hasta el hartazgo lo mismo que la década anterior, solo remozando los gráficos.
+No hay espacio para un simulador de planta nuclear al no haber un correlato actual al auge y democratización del desarrollo de juegos de los 80s.</p>
+
+<p>El británico Joel Goodwin hizo de estos el tema de una serie de artículos <a href="http://www.electrondance.com/project-where-we-came-from/">Where We Came From</a> publicados en su sitio electrondance.com.
+En el <a href="http://www.electrondance.com/the-fukushima-syndrome-1/">primero de la serie Thu Fukushima Syndrome</a> hace de Fukushima su excusa para aprender de reactores de potencia y hacer del SCRAM de Crawford su herramienta de aprendizaje.
+Cierra este artículo al relatar que siguiendo el manual llegó a la sección <strong>Thermodynamics 1A</strong>.
+Evidentemente un reto de verdad, no es la baratija de un campo de batalla 3D típica de buena parte de los juegos del s.XXI que cualquier simio puede aprender a dominar.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3XiR5tYhFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>En su <a href="http://www.electrondance.com/the-fukushima-syndrome-2/">segunda entrega</a> relata que tras enfrentarse con el juego llega a la conclusión que este no le enseño nada sino que fue la lectura del manual lo que lo hizo, y que Crawford incluyó demasiado dramatismo con tal de proponer un reto al jugador.
+Es discutible el que el poner en práctica lo leido no enseña.
+Como bien sabemos los que enseñamos ciencias en la universidad: <em>uno cree haber entendido algo hasta el momento que hay ponerlo en práctica</em>.
+En otras palabras, la retroalimentación que sucede en la puesta en práctica es lo que valida o no si se ha internalizado un esquema teórico para hacer algo útil con ello.
+De esto carecen buena parte de las <em>disciplinas sociales</em> al no poder hacer nada contrastable con su bagaje teórico este no es pasibles de evaluación cuantitativa y por tanto tales <em>disciplinas</em> no pueden aspirar al apelativo de ciencias.</p>
+
+<p>Goodwin cierra su nota con una cita del libro <a href="https://en.wikipedia.org/wiki/Chris_Crawford_on_Game_Design">Chris Crawford on Game Design</a> donde el creador, años después, reflexiona sobre su creación:</p>
+<blockquote>
+  <p>“En definitiva, Scram era un juego estúpido carente de valor de entretenimiento. … Podía escudarme en el hecho de que el software de aquella época era mayoritariamente malo. … Si tuviera que hacerlo todo de nuevo, empezaría mi proceso de diseño preguntándome: “¿Qué hay de divertido e interesante en las centrales nucleares?”. La respuesta, por supuesto, sería “No mucho”, y abandonaría la idea de construir un juego así”.</p>
+</blockquote>
+
+<p>Difícil encontrar argumentos para rebatir tal conclusión.
+Es más que probable que una simulación en computadora de la temática pueda ser instructiva (i.e. educativa) pero difícilmente divertida.</p>
+
+<h1 id="recursos-para-jugarles">Recursos para jugarles</h1>
+<ul>
+  <li>Three Mile Island para Apple II
+    <ul>
+      <li>Jorj Bauer en 2017 corrigió un error en <a href="https://hackaday.com/2017/01/15/fixing-bugs-in-a-37-year-old-apple-ii-game/">archivo de disco <code class="language-plaintext highlighter-rouge">.dsk</code></a> que permite grabar el avance.</li>
+    </ul>
+  </li>
+  <li>SCRAM para Atari de 8 bits
+    <ul>
+      <li>Puede jugarse en línea o descargar el archivo <code class="language-plaintext highlighter-rouge">.atr</code> en <a href="https://archive.org/details/a8b_SCRAM_1980_Atari_US_req_OSb_BASIC">Archive.org</a>.
+        <ul>
+          <li>Correr el <code class="language-plaintext highlighter-rouge">.atr</code> requiere el <a href="http://atariarea.krap.pl/PLus/files/xf25.zip">cartrigde Atari BASIC</a>: <code class="language-plaintext highlighter-rouge">ATARIBAS.ROM</code></li>
+          <li>CLI de GNU/Linux para ejecutarlo con emulador <a href="https://github.com/atari800/atari800/blob/master/DOC/USAGE">Atari800</a>: <code class="language-plaintext highlighter-rouge">atari800 ATARIBAS.ROM SCRAM_1980_Atari_US_req_OSb_BASIC.atr</code>.</li>
+        </ul>
+      </li>
+      <li><a href="https://archive.org/details/agm_Scram">Manual de instrucciones</a></li>
+      <li>Entrada sobre el juego en <a href="http://www.atarimania.com/game-atari-400-800-xl-xe-scram_4543.html">Atarimania</a>. Imágenes de cassette, manual y menciones en catálagos.</li>
+    </ul>
+  </li>
+  <li>64 Nuclear Power Plant para Commodore 64
+    <ul>
+      <li>Archivo imagen de diskette <code class="language-plaintext highlighter-rouge">.d64</code> en <a href="https://archive.org/details/64_Nuclear_Power_Plant_1982_Creative_Computing">Archive.org</a>.</li>
+      <li>Archivo imagen de cassette <code class="language-plaintext highlighter-rouge">.t64</code> en <a href="https://www.myabandonware.com/game/pet-nuclear-power-plant-5ov">MyAbandonware</a>.</li>
+    </ul>
+  </li>
+  <li>Chernobyl para Commodore 64
+    <ul>
+      <li>Entrada en <a href="https://csdb.dk/release/?id=13689">csdb.dk</a> donde puede descargarse</li>
+      <li><a href="https://www.c64copyprotection.com/chernobyl-manual-code/">Comandos y código de protección contra copia</a></li>
+      <li><a href="https://ftp.fidonet.io/Commodore/games/Chernobyl_Instruction_Manual.pdf">Manual de instrucciones</a></li>
+    </ul>
+  </li>
+  <li>Oakflat Nuclear Power Plant Simulator
+    <ul>
+      <li>Gemtech, creadores del juego hicieron una <a href="http://www.gamtech.com/oakflat.aspx">versión freeware para Windows</a>.</li>
+      <li>Comentario en <a href="https://youtu.be/mELeAtfKIhE">YouTube</a></li>
+    </ul>
+  </li>
+</ul>
+
+:ET

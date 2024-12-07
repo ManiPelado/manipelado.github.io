@@ -1,0 +1,46 @@
+#-------------------------------
+# General Site Settings
+title: ManíPelado
+# logo: logo.svg # You can add own logo.
+# https://www.veryicon.com/icons/food--drinks/strong-food/peanut-6.html
+logo: peanut-6.svg # You can add own logo.
+description: Un recordatorio de cosas que voy olvidando.
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Víctor Bettachini
+  image: rosetta-tshirt2.jpg
+  say-hello: Hola. Este es un sitio presentado por <strong>Rosetta y Philae</strong>.
+  bio: Los presentadores son contemporaneos exploradores de cometas.
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: https-manipelado-github-io # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

@@ -1,0 +1,65 @@
+I"x<p>¿El juego más difícil de todos los tiempos? Así lo definió un programador que <a href="https://slate.com/technology/2014/01/robot-odyssey-the-hardest-computer-game-of-all-time.html">afirma que su carrera fue determinada por su relación con este juego</a>.</p>
+
+<p>Todo depende de que tan difícil resulte imaginar como conectar sensores y actuadores con compuertas lógicas en tres robots para programar sus tareas.
+El protagonista carga una caja de herramientas y un soldador para cablear el contenido de su caja de herramientas: compuertas discretas AND, OR, NOR y XOR, y componentes como flip-flops.
+Y la complejidad solo comienza ahí: se dispone luego de contadores de 4 bits, generadores de reloj y varios chips de 8 pines cuyo cableado interno es un misterio y hay que poner a prueba para develar su comportamiento.
+La complejidad alcanzable es tal que el jugador puede <em>quemar</em> sus propios circuitos en chips de 8 pines.
+Hay quien ha afirmado <a href="http://forum.caravelgames.com/viewtopic.php?TopicID=9781">haber aprendido casi tanto sobre lógica digital completando el juego que en la materia “Introducción a la ingeniería eléctrica y de computadoras” en la universidad</a>. 
+De más está decir que esta complejidad creó tal fascinación por el juego al punto que personas como Micah Elizabeth Scott se dedicaron a <a href="https://scanlime.org/category/projects/robot-odyssey/">encontrar como estaban “cableados” los chips del juego</a> y recrear el juego para permitir <a href="https://www.robotodyssey.online/">jugarlo con el hardware de hoy día</a>.</p>
+
+<p><img src="/images/robotOdyssey_robots.png" alt="Mientras el protagonista despliegue su antena naranja Scanner, Sparky y Checkers siguen su programación hasta agotar su energía." class="center-image" />
+<em>Mientras el protagonista despliegue su antena naranja Scanner, Sparky y Checkers siguen su programación hasta agotar su energía.</em></p>
+
+<p>No es que el sufrido protagonista del juego se dedica a la electrónica digital de gusto, está forzado a hacerlo para resolver los acertijos que le permitirán escapar de una ciudad subterranea habitada por robots.
+Muchos de estos se empeñan en mantener a esta desdichada <em>unidad de carbono</em> alejado de los artefactos que necesita para avanzar en su intento de escape.</p>
+
+<p><img src="/images/robotOdyssey_interior.png" alt="En el interior de cada robot se opera la magia. Dentro de Scanner un mero flip-flop y una compuerta NOT comandan su lógica al inicio del juego." class="center-image" />
+<em>En el interior de cada robot se opera la magia. Dentro de Scanner un mero flip-flop y una compuerta NOT comandan su lógica al inicio del juego.</em></p>
+
+<p>La programación es visual y se realiza llevando al protagonista al interior de los robots.
+El juego funciona sobre el motor que programó <a href="https://en.wikipedia.org/wiki/Warren_Robinett">Warren Robinett</a>, no otro que el legendario creador de <em>Adventure</em> en la Atari 2600 (leer esta <a href="https://tjg.joeysit.com/of-dragons-and-easter-eggs-a-chat-with-warren-robinett/">entrevista</a> de 2003), para <em>Rocky’s Boots</em> publicado para la Apple II en 1982.
+Leslie Grimm, otro Co-fundador de The Learning Co., estuvo a cargo del juego lo lanzó para Apple II en 1984.</p>
+
+<h2 id="recursos-para-jugarle">Recursos para jugarle</h2>
+<ul>
+  <li>Recreación en línea por Micah Elizabeth Scott: <a href="https://www.robotodyssey.online/">Robot Odyssey Rewired</a></li>
+  <li>Recreación en Java: <a href="https://github.com/ThomasFooteDQ/DroidQuest">DroidQuest</a>
+    <ul>
+      <li>Droidquest <a href="//filetes/DQ2.7.zip">archivo jar</a> complilado</li>
+    </ul>
+  </li>
+  <li>Recreación para Android: <a href="https://play.google.com/store/apps/details?id=com.droidquest.android">DroidQuest Robot Odyssey</a></li>
+  <li>Original para Apple II (Versión 2.0, última): <a href="https://archive.org/details/RobotOdysseyI_v20_4amCrack">Archive.org</a></li>
+  <li>Original para MS-DOS: <a href="https://www.myabandonware.com/game/robot-odyssey-6g">My Abandonware</a>
+    <ul>
+      <li>NECESITA aplicar un <a href="https://github.com/houtianze/robot_odyssey_patcher">patch</a> siguiendo <a href="https://scanlime.org/2009/04/a-binary-patch-for-robot-odyssey/">estas instrucciones</a>.</li>
+    </ul>
+  </li>
+  <li>Original para MS-DOS (Versión 1.1, última): <a href="https://archive.org/details/msdos_Robot_Odyssey_1985">Archive.org</a></li>
+  <li>Manual
+    <ul>
+      <li><a href="https://archive.org/details/Robot_Odyssey_1_1986_Learning_Company/page/n7/mode/2up">Archive.org</a></li>
+      <li><a href="http://www.colorcomputerarchive.com/coco/Documents/Manuals/Educational/Robot%20Odyssey%20I%20%28The%20Learning%20Company%29.pdf">Color Computer Archive</a></li>
+      <li><a href="//filetes/Robot%20Odyssey%20I%20%29The%20Learning%20Company%29.pdf">Copia local</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="más-información-y-ayuda">Más información (y ayuda)</h2>
+<ul>
+  <li>¡Micah Elizabeth Scott resuelve el juego en 13 horas! (video): <a href="https://youtu.be/GJeseZEZn6Y">Robot Odyssey (1984) Full Game Playthrough</a></li>
+  <li>Guía y solución: <a href="https://gamefaqs.gamespot.com/appleii/566255-robot-odyssey/faqs/57379">Robot Odyssey(Apple II) FAQ/Walkthrough</a></li>
+  <li>Otra resolución en video: <a href="https://youtu.be/GJeseZEZn6Y">Let’s Play Robot Odyssey 1 - Robot Anatomy, Part 1</a></li>
+  <li><a href="https://www.reddit.com/r/robotodyssey/">Foro en Reddit</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Robot_Odyssey">Artículo de la Wikipedia en inglés</a></li>
+  <li><a href="https://www.mobygames.com/game/robot-odyssey">Artículo en Mobygames</a></li>
+  <li><a href="https://www.youtube.com/watch?v=O59UUoL8sFY">Robot Odyssey for the TRS-80 CoCo</a> (video)</li>
+</ul>
+
+<p>Robot Odyssey<br />
+The Learning Company<br />
+1984<br />
+Mike Wallace y Leslie Grimm <br />
+Apple II, TRS-80 Color Computer, IBM PC</p>
+
+:ET

@@ -1,0 +1,54 @@
+I"
+<p>No parece tarea sencilla recrear la experiencia del <strong>stress</strong> que conlleva la tarea diaria de un controlador de tráfico aéreo (ATC por sus siglas en inglés).
+Pero esta joya diseñada por <a href="https://en.wikipedia.org/wiki/Andy_Hollis">Andy Hollis</a> para MicroProse en 1985 lo logra.</p>
+
+<p>Se ha criticado esta simulación por su falta de realismo.
+Hay muchas implementaciones de la tarea de ATC como simulación basadas en la pantalla de representación de un radar.
+Pero este juego permite una introducción sencilla a la tarea mostrando la acción sobre un mapa del área geográfica bajo supervisión del controlador.
+Tanto interés desperto esto en mi que durante parte de mi niñez imaginé que esa sería mi profesión.</p>
+
+<p><img src="/images/kennedy_jfk.png" alt="En el escenario de Nueva York con los aeropuertos JFK y La Guardia." class="center-image" />
+<em>En el escenario de Nueva York con los aeropuertos JFK y La Guardia.</em></p>
+
+<p>Los comentarios en <a href="https://www.lemon64.com/">Lemon64</a> dan cuenta que lo que comienza como un desarrollo de la acción lento y rutinario con la adición de unos pocos elementos (arribos con poco combustible, tormentas) se torna rápidamente en situaciones díficiles de resolver.</p>
+
+<p>Antes de este título Andy Hollis venía de diseñar <em>MiG Alley Ace</em> y la versión de Apple II de <em>Solo Flight</em>.
+Seguiría produciendo simulaciones en la temática del vuelo con varios títulos para MicroProse, incluyendo el impresionante simulador del helicóptero de ataque AH-64 Apache <em>Gunship</em>, y posteriormente para Electronic Arts.</p>
+
+<h2 id="antes-de-empezar">Antes de empezar</h2>
+<p>Como todo buen infante empecé a jugarlo en mi Commodore 64 sin antes leer el manual.
+Viendo que todos los vuelos entrantes a la zona de contral lo hacían con la máxima altitud posible de 5000 pies, pues bien, hacía salir todos los vuelos a esa altitud.
+¿Resultado? Un mensaje “WRONG ALT EXIT”.
+Como las altitudes pueden ajustarse en saltos de 1000 pies, es lógico que los vuelos salientes a través de las rutas establecidas lo hagan a 4000 pies.
+Basta imaginarse que sucedería apenas antes de la salida se produce una entrada por la misma ruta…</p>
+
+<p>Si se olvida que ordenes se dió a una aeronave puede consultarse al piloto ubicando el cursor sobre este y dejando presionado el botón del joystick por más de un segundo. 
+La respuesta de voz digitalizada es algo destacable en este juego que recordemos funcionaba en una computadora con 64 kB de RAM.</p>
+
+<p>No hay que olvidar lo útil que resulta para dejar libre la ruta para un vuelo el poner otros en espera (HOLD) haciendolés rondar en torno a una radiobaliza VOR.
+Para esto basta con ordenarles con el joystick en la dirección deseada un giro que exceda los 360 grados, y se mostrará un círculo en lugar del ícono del avión.
+No olvidar presionar el botón mientras se sostiene el joystick presionando a izquierda o derecha.</p>
+
+<p>El elemento más complicado de manejar son las avionetas que por su baja velocidad hay que apartar del camino de los aviones a chorro comerciales.
+El <a href="https://es.wikipedia.org/wiki/Concorde"><em>Concorde</em></a> de Air France no es problemático siempre que se tome la precaución de que cualquier otro vuelo que se interponga en su camino se lo ubique a una altitud diferente para dejarle el paso libre.
+Y ahí está en el juego para recordarme que cuando niño, con un pasaje de alto costo, podía viajarse de París o Londres a Nueva York o Washington en 3 y media horas.</p>
+
+<h2 id="recursos">Recursos</h2>
+<ul>
+  <li>Emulación en línea de la versión para
+    <ul>
+      <li><a href="https://archive.org/details/Kennedy_Approach_1985_MicroProse">Commodore 64</a> en Archive.org</li>
+      <li><a href="https://archive.org/details/a8b_Kennedy_Approach_1985_MicroProse_US">Atari 8 bits</a> en Archive.org</li>
+    </ul>
+  </li>
+  <li><a href="https://archive.org/details/MicroproseKennedyApproach15June85/page/n5/mode/2up">Manual</a> en Archive.org</li>
+  <li>Enlace a descarga de la <a href="https://www.ped30.com/2017/12/12/apple-everyone-can-code-deja-vu/">imagen de disco d64</a> en GB64.com</li>
+</ul>
+
+<p>Kennedy Approach<br />
+MicroProse Software<br />
+1985<br />
+Andy Hollis<br />
+Commodore 64, Atari 8-bit, Amiga, Atari ST</p>
+
+:ET

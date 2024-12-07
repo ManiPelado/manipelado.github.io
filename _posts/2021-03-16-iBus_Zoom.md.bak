@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Re-empaquetar .deb de Zoom para remover la dependencia con ibus"
+date:   2021-03-16 08:57:28 -0300
+image:  zoomTux.png
+tags:   GNU/Linux, Debian, Zoom
+---
+**Este artículo no es de mi autoría.** **I didn't authored this article.** Lo que sigue es una traducción del artículo [artículoOriginal][Repack Zoom .debs to remove the `ibus` dependency] del blog del [sitio personal de Elana Hashman][siteHashman].
+
+Sea cual fuere la razón, [Zoom][siteZomm] distribuye .debs que tienen una dependencia con `ibus`.
+`ibus` en el paquete de "bus de entrada inteligente" y hasta el punto donde sé, podría ser usada para dar ingresar emoji en el chat o ¿algo por el estilo?
+Pero no es de hecho una dependencia del paquete Zoom.
+Lo he ensayado en forma extensa... el cliente funciona bien sin él.
+
+Noté que cuando instalo `ibus` junto con el paquete Zoom que `ibus` frecuentemente se come un núcleo entero del CPU.
+No estoy segura de si es un bug en el paquete o servicio `ibus`, pero no tengo energía para intentar arreglarlo.
+Si no es una dependencia dura, Zoom _no debiera depender de él en primer lugar_.
+
+De todas formas, aquí muestro como re-empaquetar un .deb de Zoom para remover la dependencia con `ibus`:
+
+	scratch=$(mktemp -d)
+	
+	# Extract package contents
+	dpkg -x zoom_amd64.deb $scratch
+	
+	# Extract package control information
+	dpkg -e zoom_amd64.deb $scratch/DEBIAN
+	
+	# Remove the ibus dependency
+	sed -i -E 's/(ibus, |, ibus)//' $scratch/DEBIAN/control
+	
+	# Rebuild the .deb
+	dpkg -b $scratch patched_zoom_amd64.deb
+
+Ahora puede instalar el .deb emparchado con
+	depk -i pathched_zoom_amd64.deb
+
+Un arreglo de esto en el upstream sería que Zoom mueva la "Dependencia" con `ibus` a "Recomendada", pero han estado poco dispuestos a hacer esto por más de un año.
+
+**Un momento, ¿qué versión está en mi paquete?**
+
+Por cierto, habrá notado  que las descragas del cliente de Zoom no están conformes al esquema estándar para dar nombre a los paquetes de Deiabn (i.e. incluyendo la versión en el nombre del archivo).
+Si no está seguro de que versión es un paquete `zoom_amd64.deb` que haya descargado, puede rápidamente extraer tal información con
+	dpkg-deb -I zoom_amd64.ded | grep Version
+	# Version 3.5.373281.0407 
+
+[artículoOriginal]: https://hashman.ca/zoom/
+[siteHashman]: https://hashman.ca/
+[siteZoom]: zoom.us/
