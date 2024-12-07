@@ -2,7 +2,7 @@
 layout: post
 title:  "Programas para el GNU/Linux del infante"
 date:   2021-04-15 08:57:28 -0300
-image:  zoomTux.png
+image:  omni_gcopmpris.png
 tags:   GNU/Linux, Linux, Niños, Educación
 ---
 
