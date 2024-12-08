@@ -19,7 +19,7 @@ Hay una gran variedad de software con alto valor educativo para niños y de cód
 # Software de actividades
 - [GCompris][Gcompris] Es un paquete de software educativo de alta calidad, que incluye un gran número de actividades para niños de 2 a 10 años. 
 - [Childsplay][Childsplay] Es una colección de actividades educativa para niños pequeñeos.
-- [Omnitux][Omnitux] | Varias actividades educativas alrededor de elementos multimedia (imágenes, sonidos, textos).
+- [Omnitux][Omnitux] Varias actividades educativas alrededor de elementos multimedia (imágenes, sonidos, textos).
 - [Ktuberling][Kturbeling] Es un "editor de una papa" a la que se le puede agregar cejas, boca, bigote y otras partes de la cara. 
 - [Ri-Li][Ri-Li] Armar y controlar un circuito de trenes de madera rodando en sus vías caladas.
 - [Tux Paint][TuxPaint] Usado en escuelas alrededor del mundo como una actividad de dibujo y alfabetización informática para niños de 3 a 12 años.
