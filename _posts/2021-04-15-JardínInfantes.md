@@ -4,8 +4,9 @@ title:  "Software para un niño libre"
 date:   2024-12-07 19:57:28 -0300
 image:  omni_gcompris.png
 tags:   Educación
+lang:   es-AR
 ---
-Hay una gran variedad de software con alto valor educativo para niños y de código libre. A continuación lgunas sugerencias.
+Hay una gran variedad de software con alto valor educativo para niños y de código libre. A continuación algunas sugerencias.
 
 
 # Explorar es construir
@@ -13,7 +14,7 @@ Hay una gran variedad de software con alto valor educativo para niños y de cód
 - [Scratch][Scratch] Crea historias, juegos y animaciones. Diseñado para niños de 8 a 16 años.
 - [ScratchJr][ScratchJr] Los niños pequeños (de 5 a 7 años) pueden programar sus propias historias y juegos interactivos. En el proceso, aprenden a resolver problemas, diseñar proyectos y expresarse creativamente.
 - [Turtle Blocks JS][Turtle Blocks JS] Es una actividad con una «tortuga» gráfica inspirada en Logo que dibuja arte colorido basado en elementos de programación visual encajables.
-- [Music Blocks][Music Blocks] Es una coleccińo de herramientas para explorar conceptos musicales básicos de una forma divertida.
+- [Music Blocks][Music Blocks] Es una colección de herramientas para explorar conceptos musicales básicos de una forma divertida.
 
 
 # Software de actividades
